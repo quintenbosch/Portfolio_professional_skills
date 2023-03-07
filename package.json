@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-ps",
+  "version": "",
+  "description": "Portfolio for professional skills 2",
+  "main": "",
+  "scripts": {
+    "watch": "live-server --port=8090"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
