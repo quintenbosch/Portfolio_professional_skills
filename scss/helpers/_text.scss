@@ -1,0 +1,5 @@
+@each $key, $value in $color-map {
+  .text-#{$key} {
+    color: $value;
+  }
+}

@@ -1,0 +1,25 @@
+//fonts
+$font-size: 14px;
+$line-height: 1.5;
+
+$ff-arial: Arial, sans-serif;
+$ff-questrial: 'Questrial', sans-serif;
+
+//colors
+$red: #f2542d;
+$cyan: #0e9594;
+$green: #127475;
+$bordeaux: #562c2c;
+$yellow: #f5dfbb;
+$white: #efefef;
+$black: black;
+
+$color-map: (
+  'green': $green,
+  'red': $red,
+  'cyan': $cyan,
+  'yellow': $yellow,
+  'bordeaux': $bordeaux,
+  'white': $white,
+  'black': $black
+);
